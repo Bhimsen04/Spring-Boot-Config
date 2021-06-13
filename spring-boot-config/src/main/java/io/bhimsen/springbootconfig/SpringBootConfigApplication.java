@@ -8,6 +8,7 @@ public class SpringBootConfigApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootConfigApplication.class, args);
+		System.out.println("First push");
 	}
 
 } 
